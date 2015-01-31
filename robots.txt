@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://jordanbaruch.github.io/sitemap.xml 
